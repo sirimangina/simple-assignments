@@ -1,1 +1,5 @@
-HTML stands for Hyper Text Markup Language,in sql
+HTML 
+stands
+ for
+ Hyper Text Markup Language
+in sql
